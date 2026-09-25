@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dogsapi",
   "title": "Dogsapi",
   "description": "DogsAPI MCP — wraps dogapi.dog v2 API (free, no auth)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://pipeworx.io/packs/dogsapi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dogsapi",

@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dogsapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DogsAPI MCP — wraps dogapi.dog v2 API (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7e584058edb7402bdd46c2aa4607fd64352ab6c18b0a236e83fefef0cf81f1be",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-50f11bf9a4f8d04c907fbf8b19fb21db5c0ef9cf23dc60474d9dffd2d515ada8",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
